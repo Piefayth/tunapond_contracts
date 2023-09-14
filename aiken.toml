@@ -1,0 +1,14 @@
+name = "piefayth/tunapond_contracts"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'piefayth/tunapond_contracts'"
+
+[repository]
+user = "piefayth"
+project = "tunapond_contracts"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"
